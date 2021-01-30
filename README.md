@@ -1,4 +1,4 @@
-# handson-ml-notes
+# My notes of the Book Hands-On ML with Scikit-Learn, Keras, and TensorFlow
 
 Notes and code along plus my solution to the exercises of hands on ML book.
 
