@@ -2,7 +2,7 @@
 
 These are my study notes and solutions to the exercises proposed in the book [Hands-On ML with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2VWQVFFWW3GPA&dchild=1&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1612033192&sprefix=handson+machine%2Caps%2C253&sr=8-1) 2nd Edition by Aurélien Géron.
 
-The notes (text and code) are written in the Jupyter notebooks inside this repo. Some parts of it were explicitly copied from the textbook just to keep it concise with the explanation and the code provided. However, I also wrote some paragraphs by my own hand and I take full responsibility for any missinterpretation about the concepts and ideas from the book.
+The notes (text and code) are written in the Jupyter notebooks inside this repo. Some parts of it were explicitly copied from the textbook just to keep it concise with the explanation and the code provided. However, I also wrote some paragraphs by my own hand where I think I could explain the concepts with my own point of view about the subject.
 
 ## Syllabus
 
